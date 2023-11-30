@@ -1,30 +1,24 @@
-# Seek
+# GPTseek
 
 <br />
 
 <p align="center">
   <a href="https://github.com/ljwlx/VTranslate/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Sources/icon" alt="" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">A top-notch GPTs directory</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+  
     <br />
-    <a href="https://github.com/ljwlx/VTranslate"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://gptseek.com/?ref=producthunt&f=aw"><strong>Open GPTseek »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ljwlx/VTranslate">查看Demo</a>
-    ·
-    <a href="https://github.com/ljwlx/VTranslate/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/ljwlx/VTranslate/issues">提出新特性</a>
+    
   </p>
 
 </p>
 
-
- 本篇README.md面向开发者
  ### 精选
 每日更新最优质的GPTs
 - [xxxxxxx](https://getbootstrap.com)
