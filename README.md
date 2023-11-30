@@ -3,8 +3,8 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/ljwlx/VTranslate/">
-    <img src="Sources/icon" alt="" width="80" height="80">
+  <a href="https://github.com/ljwlx/GPTseek.com/">
+    <img src="sources/icon.png" alt="" width="80" height="80">
   </a>
 
   <h3 align="center">A top-notch GPTs directory</h3>
@@ -12,7 +12,6 @@
   
     <br />
     <a href="https://gptseek.com/?ref=producthunt&f=aw"><strong>Open GPTseek »</strong></a>
-    <br />
     <br />
     
   </p>
