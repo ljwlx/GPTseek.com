@@ -9,29 +9,27 @@
 
   <h3 align="center">A top-notch GPTs directory</h3>
   <p align="center">
-     f
+    Discover Great GPTs with Your Vote
+    <br />
     <br />
     <a href="https://gptseek.com/?ref=producthunt&f=aw"><strong>Open GPTseek »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ljwlx/VTranslate">查看Demo</a>
-    ·
-    <a href="https://github.com/ljwlx/VTranslate/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/ljwlx/VTranslate/issues">提出新特性</a>
-  </p>
-  
-  <p align="center">
-  
-    <br />
-    <a href="https://gptseek.com/?ref=producthunt&f=aw"><strong>Open GPTseek »</strong></a>
-    <br />
-    
   </p>
 
+<a href="https://github.com/ljwlx/GPTseek.com/">
+    <img src="Sources/cover.png" alt="" >
+  </a>
 </p>
 
- ### 精选
+
+### Quality GPTs 
+每日更新最优质的GPTs
+- [xxxxxxx](https://getbootstrap.com)
+- [xxxxxxx](https://jquery.com)
+- [xxxxxxx](https://laravel.com)
+
+### Contact Us
 每日更新最优质的GPTs
 - [xxxxxxx](https://getbootstrap.com)
 - [xxxxxxx](https://jquery.com)
