@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ljwlx/GPTseek.com/">
-    <img src="sources/icon.png" alt="" width="80" height="80">
+    <img src="Sources/icon.png" alt="" width="80" height="80">
   </a>
 
   <h3 align="center">A top-notch GPTs directory</h3>
