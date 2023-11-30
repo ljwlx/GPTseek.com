@@ -9,6 +9,15 @@
 
   <h3 align="center">A top-notch GPTs directory</h3>
   <p align="center">
+     
+    <br />
+    <a href="https://gptseek.com/?ref=producthunt&f=aw"><strong>Open GPTseek »</strong></a>
+    <br />
+    <br />
+    
+  </p>
+  
+  <p align="center">
   
     <br />
     <a href="https://gptseek.com/?ref=producthunt&f=aw"><strong>Open GPTseek »</strong></a>
