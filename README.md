@@ -1,5 +1,5 @@
 #### GPTseek
-# GPTs, GPTseek, openai, customeGpt, gpt, Sam Altman, chatGpt, gpt4 and chat
+# GPTs, GPTseek, openai, customeGpt, gpt, Sam Altman, chatGpt and gpt4
 <br />
 
 <p align="center">
